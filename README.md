@@ -1,4 +1,4 @@
-# launch-vscode-from-terminal
+# Launch Visual Studio Code From Terminal
 A configuration to enable launching Visual Studio Code from terminal on Mac
 
 ## Motivation
