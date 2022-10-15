@@ -7,7 +7,7 @@ Developers love terminal! Sometimes, however, we want to launch VS Code in a fol
 ## Method
 Add the following command to your bash initialization script. 
 
-`export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"`
+`export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"`
 
 Reload your bash. Enter your favourite folder and try `code .` :)
 
