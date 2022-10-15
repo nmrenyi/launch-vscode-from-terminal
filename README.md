@@ -12,4 +12,4 @@ Add the following command to your bash initialization script.
 Reload your bash. Enter your favourite folder and try `code .` :)
 
 ## Reference
-1. [Visual Studio Code on macOS](https://code.visualstudio.com/docs/setup/mac#_alternative-manual-instructions)
+1. [Visual Studio Code on macOS](https://code.visualstudio.com/docs/setup/mac#_alternative-manual-instructions). Note that the [first solution](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) of this post may not be persistent if you restarted your Mac. Personally I suggest the [alternative manual instructions](https://code.visualstudio.com/docs/setup/mac#_alternative-manual-instructions) in this post, which is also the method described in this README :)
